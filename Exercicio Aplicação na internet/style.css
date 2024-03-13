@@ -1,0 +1,45 @@
+* {
+    margin: 1%;
+}
+header {
+    width: 77%;
+    height: 200px;
+    background-color: #ffe9cd;
+    float: left;
+  }
+  
+  aside {
+    width: 19%;
+    height: 700px;
+    background-color: #b7d7d9;
+    float: right;
+  }
+  
+  nav {
+    width: 77%;
+    height: 100px;
+    background-color: #bfe9ff;
+    clear: left;
+  }
+  
+  article {
+    width: 25%;
+    height: 400px;
+    background-color: #f19ca2;
+    float: left;
+  }
+  
+  section {
+    width: 50%;
+    height: 180px;
+    background-color: #f8d7d0;
+    float: left;
+  }
+  
+  footer {
+    width: 98%;
+    height: 200px;
+    background-color: #ffe9cd;
+    float: left;
+  }
+
